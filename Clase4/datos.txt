@@ -1,0 +1,3 @@
+SN001, Sensor_Temperatura, [22.5; 23.0; 22.8]
+SN002, Sensor_Humedad, [45.0; 44.5; 46.2]
+SN003, Sensor_Presion, [1013.2; 1012.8; 1013.5]

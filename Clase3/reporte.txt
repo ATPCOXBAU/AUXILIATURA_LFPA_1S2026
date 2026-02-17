@@ -1,0 +1,2 @@
+Reporte de Logs
+Total de registros procesados: 5

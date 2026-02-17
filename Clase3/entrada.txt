@@ -1,0 +1,5 @@
+INFO:Inicio del servidor
+WARN:Uso de memoria alto
+ERROR:Fallo en base de datos
+INFO:Usuario conectado
+ERROR:Timeout de conexion
